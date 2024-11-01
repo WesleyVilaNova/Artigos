@@ -4,8 +4,8 @@ email: wesleyvilanovadelimatorres@gmail.com
 description: "Um blog sobre desenvolvimento e tecnologia."
 baseurl: "/Artigos"
 url: "https://wesleyvilanova.github.io"
-github_username: https://github.com/WesleyVilaNova
-linkedin_username: https://www.linkedin.com/in/wesley-vila-nova/
+github_url: "https://github.com/WesleyVilaNova"  # Corrigido para github_url
+linkedin_url: "https://www.linkedin.com/in/wesley-vila-nova/"  # Corrigido para linkedin_url
 
 # Build settings
 theme: minima
