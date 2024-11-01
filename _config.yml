@@ -1,11 +1,11 @@
 # Site settings
-title: Meu Blog
+title: Meu titulo testes entendendo
 email: wesleyvilanovadelimatorres@gmail.com
-description: "Um blog sobre desenvolvimento e tecnologia."
+description: "Um blog sobre desenvolvimento e tecnologia 123"
 baseurl: "/Artigos"
 url: "https://wesleyvilanova.github.io"
-github_url: "https://github.com/WesleyVilaNova"  # Corrigido para github_url
-linkedin_url: "https://www.linkedin.com/in/wesley-vila-nova/"  # Corrigido para linkedin_url
+github_url: "https://github.com/WesleyVilaNova"
+linkedin_url: "https://www.linkedin.com/in/wesley-vila-nova/"
 
 # Build settings
 theme: minima
