@@ -1,7 +1,7 @@
 # Site settings
-title: "Códigos e Conhecimento: Um Blog de Desenvolvimento Android"
+title: "Códigos e Conhecimentos sobre tecnologia"
 email: wesleyvilanovadelimatorres@gmail.com
-description: "Vamos conversar sobre desenvolvimento e tecnologia?"
+description: "Vamos falar sobre tecnologia"
 baseurl: "/Artigos"
 url: "https://wesleyvilanova.github.io"
 github_url: "https://github.com/WesleyVilaNova"
