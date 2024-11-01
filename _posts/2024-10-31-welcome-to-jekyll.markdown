@@ -9,4 +9,4 @@ categories: [compose]
 
 Vamos testar isso aqui!
 
-![alt text](../assets/images/logan.jpg)
+![alt text]({{ site.baseurl }}/assets/images/logan.jpg)
