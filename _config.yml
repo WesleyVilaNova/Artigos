@@ -1,7 +1,7 @@
 # Site settings
-title: Meu titulo testes entendendo
+title: "Códigos e Conhecimento: Um Blog de Desenvolvimento Android"
 email: wesleyvilanovadelimatorres@gmail.com
-description: "Um blog sobre desenvolvimento e tecnologia 123"
+description: "Vamos conversar sobre desenvolvimento e tecnologia?"
 baseurl: "/Artigos"
 url: "https://wesleyvilanova.github.io"
 github_url: "https://github.com/WesleyVilaNova"
